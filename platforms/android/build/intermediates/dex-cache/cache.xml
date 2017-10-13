@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-26.0.0-alpha1_40d84e5c5e2f88f801d3d3304b4832b808fdf262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-26.0.0-alpha1_1e9b2f50e8d4a5416f38a0b98bd5bf62667a9c8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_b495f228fa40e71bee64429a27c95f56f2a567d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_16aec65e2823740c4f1e0078041d824f1f9e333c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-26.0.0-alpha1_4bc78d4384584cc9a5504b3e2657377a5807401e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-26.0.0-alpha1_7aae4c3d212c55801a2a94ad42a2d264393bbcc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-26.0.0-alpha1_29373218040aedfaebb1f86b998f2162a8e1e2cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\HelloWorld\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_a4f38d63b7a229528ccd765228489c0b57e068f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-26.0.0-alpha1_015bc5f0ff7d7b3be2937a87a64398a704fb82bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_b0ec61b649d7a21db0c42ded941814174ab5233e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\HelloWorld\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\HelloWorld-runtime-unspecified_0d7263f2ea5446d66387b233308e8d64b6aa4b92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-26.0.0-alpha1_d1a9d64d5a1b504e456acf545b6cc84478539bb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_ff2d04f9f928649e9b8a1db2cb18f705f6a85f46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-26.0.0-alpha1_e6005bbb40e2ca83e46949c6f40ae1010675909a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-26.0.0-alpha1_aabdc9d90cb1d7ceb4b9677c2f0ac518e6dcd72a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Jere\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-26.0.0-alpha1_0e14d627ea94990cad637fc052b09730ca453abc.jar" />
+    </item>
+
+</items>
